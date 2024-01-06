@@ -15,6 +15,9 @@
 Social Buzz is fast growing technology unicorn in the social media industry. It records north of  100,000 post per day and over 36,000,000 per year.
 This data analysis project aims to analyse various aspect of Social Buzz data, find the top 5 most popular categories of content and provide insight to drive up engagement.
 
+
+[Social Buzz Data Visualization Board.pdf](https://github.com/EmmanuelMomodu/Social-Analysis-Project/files/13848976/Social.Buzz.Data.Visualization.Board.pdf)
+
 ## Data Sources
 
 
